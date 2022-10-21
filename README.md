@@ -14,7 +14,7 @@ Analyzing Stocks and Finding Returns
   
   ![VBA_Challenge_2017](https://user-images.githubusercontent.com/114521887/197074266-1ebf4f5e-fa2f-4a3e-8b18-a80191d24f92.png)
   
-  To make it even easier, I added a couple buttons to make the process very easy. The "Run Analysis for All" button will return you a box that allows you to enter the which year you would like to see the return values of the stocks. The reason this button works is because I assigned a Macro that allows it to go through the entire code and return all of your wanted reults with the click of a button. As you can see, the stocks did very well in the year 2017. "TERP" was our only stocks that had a negative return. Every other stock saw a positive return. "DQ" came in with our best return of 199.4%.
+  To make it even easier, I added a couple buttons to make the process very easy. The "Run Analysis for All" button will return you a box that allows you to enter the which year you would like to see the return values of the stocks. The reason this button works is because I assigned a Macro that allows it to go through the entire code and return all of your wanted results with the click of a button. As you can see, the stocks did very well in the year 2017. "TERP" was our only stocks that had a negative return. Every other stock saw a positive return. "DQ" came in with our best return of 199.4%.
   
   Now we can also look at our stock results for the year 2018. Below is a picture of our final results for the year 2018.
   
